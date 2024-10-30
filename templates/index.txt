@@ -10,7 +10,7 @@
 	This container is not running in AWS App Runner.
 	Try one of the links below to find out how you can deploy it.
 {% else %}
-	Congratulations, your service has successfully deployed on AWS App Runner Luis Alvarez.
+	Congratulations, your service has successfully deployed on AWS App Runner Luis Alvarez2.
 {% endif %}
 
 {% if ( '0.0' in host_url or 'localhost' in host_url )  %}
